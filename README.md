@@ -6,28 +6,6 @@
 </a>
 
 
-
-<!-- <div align="center">                                                                               -->
-<!--     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=samprasgit&theme=dark" />   -->
-<!-- </div>                                                                                             -->
-
-<!-- **Skills:**                                                                                        -->
-
-<!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"></code> -->
-<!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/go.svg"></code>     -->
-<!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/r.svg"></code>     -->
-<!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg"></code>  -->
-<!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg"></code>    -->
-<!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg"></code>  -->
-<!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vim.svg"></code>    -->
-<!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/macos.svg"></code>  -->
-<!-- <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/alfred.svg"></code> -->
-
-
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=samprasgit&theme=dracula" />
-</div>
-
 ### 技术栈
 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
